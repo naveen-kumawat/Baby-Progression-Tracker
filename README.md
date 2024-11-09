@@ -1,26 +1,32 @@
 # Baby Progression Tracker 👶🎉
 
-Welcome to the **Baby Progression Tracker** project! This is a beginner-friendly web development project created using **HTML**, **CSS**, and **JavaScript**. It's a fun and interactive way to track a baby's progress through different stages.
+Welcome to the **Baby Progression Tracker** project! This is a beginner-friendly web development project built using **HTML**, **CSS**, and **JavaScript**. It's a fun and interactive tool to track a baby's growth and milestones as they progress through different stages of development.  
 
-**[Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=YourVideoLink)**
+**[Watch the Tutorial on YouTube](https://youtu.be/OwKmPXtfugA?sub_confirmation=1)**
+
+---
 
 ## Project Overview
-This project aims to provide a simple yet creative tracker that visually represents the progress of a baby. The tracker features playful SVG animations, smooth transitions, and an easy-to-understand layout. It's designed for beginner developers looking to practice their HTML, CSS, and JavaScript skills.
+The **Baby Progression Tracker** is designed to give parents, caregivers, or anyone interested a playful, visual way to track the progress of a baby. With SVG animations, smooth transitions, and a clean, easy-to-understand layout, this project is perfect for those just starting to learn **HTML**, **CSS**, and **JavaScript**.
 
 ### Features:
-- **HTML Structure**: Basic structure for a progression tracker.
-- **CSS Styling**: Styling for layout, animation, and responsiveness.
-- **JavaScript Animations**: Animation to simulate the baby’s progression.
-- **SVG Graphics**: Fun and engaging visuals to represent the stages.
+- **HTML Structure**: Simple layout to display the tracker.
+- **CSS Styling**: Fun, engaging, and responsive design.
+- **JavaScript Animations**: Smooth animations showing the baby's milestones.
+- **SVG Graphics**: Unique visuals to represent each stage in the baby's progress.
+
+---
 
 ## Live Demo
-You can try out the live version of the project here:  
-[Live Demo](https://your-live-project-link)
+You can experience the live demo of this project here:  
+[Live Demo](https://naveen-kumawat.github.io/Baby-Progression-Tracker/)
+
+---
 
 ## Installation
 
-To run this project locally, follow these steps:
+To run this project on your local machine, follow these simple steps:
 
-1. Clone the repository to your local machine:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/baby-progression-tracker.git
+   git clone https://github.com/naveen-kumawat/Baby-Progression-Tracker.git
