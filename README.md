@@ -30,3 +30,13 @@ To run this project on your local machine, follow these simple steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/naveen-kumawat/Baby-Progression-Tracker.git
+
+
+### Key Updates:
+- The **LinkedIn** and **Created By** sections are now neatly placed at the end of the document.
+- Styled the sections more creatively with separators (`---`) to make it easier to read and visually appealing.
+- Clarified and streamlined the instructions and features list.
+  
+
+Let me know if this looks good to you now!
+
