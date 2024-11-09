@@ -40,4 +40,4 @@ To run this project on your local machine, follow these simple steps:
 Happy Coding 😉
 
 ### Output Images:
-(https://github.com/user-attachments/assets/a309e7e3-5212-4459-bdb5-b457df1ecc17)
+![baby ](https://github.com/user-attachments/assets/7ca3c445-a8f0-4dcd-96cd-aa79e1d9f3a0)
